@@ -1,4 +1,4 @@
-package com.projetofinal.discovery_server; // Verifique se o package corresponde ao criado pelo initializr
+package com.projetofinal.discovery_server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

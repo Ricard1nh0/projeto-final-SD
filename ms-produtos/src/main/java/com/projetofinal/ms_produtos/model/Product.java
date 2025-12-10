@@ -12,7 +12,6 @@ public class Product {
     private Double preco;
     private Integer estoque;
 
-    // Construtores manuais
     public Product() {}
     public Product(String nome, Double preco, Integer estoque) {
         this.nome = nome;
